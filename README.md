@@ -10,6 +10,21 @@ It's easier to answer this question in terms of what should **not** be open sour
 2. Don't open source anything that is specific to internal processes. If it won't be useful to anyone that doesn't work here, don't open source it.
 3. Don't open source anything you can't commit to maintaining long-term. Some projects are inherently difficult to maintain. If you don't want to spend time accepting contributions and working with the open source community, don't open source it.
 
+## What is the purpose of this repository?
+Aprender a crear un proyecto en github desde cero
+
+## Who should someone contact if they have questions?
+Conmigo, mi nombre es José BELLIDO
+
+## How should someone make contact if they have questions?
+Por medio del correo, mi direccion de email es: jbellido@gmail.com
+
+## What are the first steps to getting started open sourcing a project?
+Leer los documentos readme.md y contributed.md
+
+## How does this repository relate to other projects and business goals?
+Mediante enlaces a otros proyectos y mejorar el producto para dar un mejor servicio a nuestros clientes.
+
 ## Open Source Maintainer Expectations
 
 Before you open source your project, consider the effort required to maintain it. Being an great open source maintainer requires more effort than managing a closed source project. Read our [Maintainer Guide](docs/maintainers-guide.md) to understand what will be expected of you.
