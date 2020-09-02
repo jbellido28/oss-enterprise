@@ -1,15 +1,40 @@
-Title: Using github.com/ORG/REPO
+```markdown
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This issue will serve as a tracking issue for verification of this project:
+---
 
-## Project Health Check
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-- [ ] The license is acceptable per our [license policy](docs/license-policy.md)
-- [ ] The repository is well maintained
-   - Security vulnerabilities are addressed in a timely manner
-   - Project shows regular activity
-   - Bugs reported in issues are addressed promptly
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-## Internal Process
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-- [ ] Notify the xyz team that you intend to use this project
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
+```
